@@ -1,0 +1,15 @@
+banana|banana is yellow curved yummy fruit
+forest|A large area covered with trees and plants.
+jazz|A type of music characterized by improvisation and syncopation.
+language|The method of human communication, either spoken or written.
+guitar|A musical instrument with strings.
+apple|A round fruit with red, green, or yellow skin and crisp flesh.
+apple|A tree that grows the apple fruit.
+computer|An electronic device for storing and processing data.
+computer|A person who performs calculations.
+mountain|A large natural elevation of the earth's surface.
+dictionary|A book or electronic resource that lists words and their meanings.
+happiness|The state of being happy.
+elephant|A very large animal with a long trunk and tusks.
+internet|A global computer network providing information and communication.
+knowledge|Facts, information, and skills acquired through experience or education.
